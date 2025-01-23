@@ -87,6 +87,7 @@ class MyClient(discord.Client):
             print('Channel not found or bot does not have access to the channel.')
 
     async def on_message(self, message):
+        # Example
         await self.sync_message(message, 'Title', 1111111111111111111)
 
 async def main() -> None:
