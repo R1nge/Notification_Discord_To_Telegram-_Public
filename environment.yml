@@ -29,7 +29,7 @@ dependencies:
       - attrs==24.3.0
       - certifi==2024.12.14
       - discord-protos==0.0.2
-      - discord-py-self==2.0.0
+      - discord-py-self==2.0.1
       - frozenlist==1.5.0
       - h11==0.14.0
       - httpcore==1.0.7
